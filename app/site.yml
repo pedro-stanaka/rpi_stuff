@@ -7,16 +7,16 @@
   roles:
     - role: boilerplate
       tags: boilerplate
-    - role: restic
-      tags: restic
+    # - role: restic
+      # tags: restic
     - role: caddy
       tags: caddy
-    - role: syncthing
-      tags: syncthing
-    - role: torrent
-      tags: torrent
-    - role: jellyfin
-      tags: jellyfin
+    # - role: syncthing
+    #   tags: syncthing
+    # - role: torrent
+    #   tags: torrent
+    # - role: jellyfin
+    #   tags: jellyfin
     - role: emby
       tags: emby
     - role: share
